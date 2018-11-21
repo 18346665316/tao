@@ -1,0 +1,7 @@
+爬虫程序:python main start_page_num end_page_num
+导入程序:python 导入 start_page_num end_page_num
+爬取, 导入的内容包括尾页
+注意: 版本统一的模块
+chromedriver --v 2.42
+chrome 6.8
+注意: 每天爬取之前需手动清空位数组的内容
